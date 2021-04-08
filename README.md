@@ -3,7 +3,7 @@
 Aplicação baseada na arquitetura SPA, visando o gerenciamento de tarefas.
 Nesta aplicação foram utilizadas tecnologias como:
 
-React.js
+React.js;
 Node.js
 MongoDB
 Express
